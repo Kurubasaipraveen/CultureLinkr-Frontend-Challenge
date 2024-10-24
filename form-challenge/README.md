@@ -20,10 +20,10 @@ Demo:
 
 Installation
 
-git clone https://github.com/Kurubasaipraveen/CultureLinkr-Frontend-Challenge
-cd form-challenge
-npm install
-npm start
+1.git clone https://github.com/Kurubasaipraveen/CultureLinkr-Frontend-Challenge
+2.cd form-challenge
+3.npm install
+4.npm start
 
 Photos:
 
